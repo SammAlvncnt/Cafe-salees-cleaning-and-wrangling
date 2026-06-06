@@ -1,6 +1,9 @@
 # Cafe Sales Data Cleaning & Customer Segmentation Analysis
 This repository contains an end-to-end Data Understanding, Quality Assessment, and Data Cleaning project for a café sales dataset. The dataset initially contained significant noise, inconsistent types, and missing values that hindered accurate analysis. After a comprehensive data wrangling process, the clean data was segmented to provide actionable business recommendations.
 
+# Interactive Dashboard Preview
+![Dashboard](assets/nama_file_screenshot.png)
+
 ---
 
 ## 1. Data Understanding & Quality Assessment
